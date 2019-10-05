@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: learnjava-eurka-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mahes
+Implementation-Vendor-Id: com.learnjava
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/learnjava-eurka-server
+Created-By: Maven Integration for Eclipse
+
